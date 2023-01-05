@@ -1,0 +1,29 @@
+{
+  "name": "bank-challenge",
+  "version": "1.0.0",
+  "description": "This challenge helps you practice your OO design skills.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanvirDF/bank-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanvirDF/bank-challenge/issues"
+  },
+  "homepage": "https://github.com/TanvirDF/bank-challenge#readme",
+  "devDependencies": {
+    "jasmine": "^4.2.1"
+  },
+  "dependencies": {
+    "nodemon": "^1.3.3"
+  }
+}
